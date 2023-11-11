@@ -51,7 +51,7 @@ def submit_form():
     else:
         return 'Something went wrong! Please try again!'
 
-# we can use 11-13 instead of 16-28.
+# static way to call all pages
 # @app.route("/works.html")
 # def my_works():
 #     return render_template('works.html')
