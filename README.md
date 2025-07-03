@@ -1,6 +1,6 @@
 # Portfolio_Project
 
-Visit **prerak.pythonanywhere.com** to access the website.
+Visit **Prerak.pythonanywhere.com** to access the website.
 
 Created my Portfolio where you can see my resume and can also contact me easily.
 
